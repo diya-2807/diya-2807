@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diya Gaur</h1>
+<h1 align="center">Hi 👋, I'm Diya</h1>
 <h3 align="center">💻 B.Tech CSE Student | Python Developer | Web Developer | Lifelong Learner 🚀</h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
