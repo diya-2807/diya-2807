@@ -42,24 +42,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&margin-w=10&margin-h=10)
-
----
-
 ## 🚀 Featured Projects
 
 ⭐ Pong Game using Python  
 ⭐ Resume Parser & Scorer  
 ⭐ Artificial Jewellery Website (HTML)  
 ⭐ Python Mini Projects
-
----
-
-## 📊 Activity Graph
-
-[![Diya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
 
 ---
 
@@ -75,9 +63,5 @@
 > *"Success is built one commit at a time."* 💙
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
